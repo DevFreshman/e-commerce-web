@@ -178,15 +178,6 @@ Frontend runs at:
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 Team Members
-
--   Hoang Duc Manh -- Team Leader (Backend, Architecture)
--   Dinh Hoang Viet -- Frontend Developer
--   Le Minh Hanh -- API Testing & Documentation
--   Tran Trung Anh -- Testing & Email Service
-
-------------------------------------------------------------------------
-
 ## 📚 References
 
 -   Spring Boot Documentation
